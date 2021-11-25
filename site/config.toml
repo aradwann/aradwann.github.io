@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://radwanov.github.io"
+base_url = "https://aradwann.github.io"
 title = "Blog"
 
 # The default language; used in feeds.
@@ -57,11 +57,11 @@ webmanifest = "/icons/site.webmanifest"
 
 # Author details
 [extra.author]
-name = "radwanov"
+name = "aradwann"
 avatar = "/images/avatar.png"
 
 # Social links
 [extra.social]
-email = "radwanov@protonmail.com"
-linkedin = "radwanov"
-github = "radwanov"
+email = "aradwann@protonmail.com"
+linkedin = "aradwann"
+github = "aradwann"
